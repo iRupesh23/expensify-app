@@ -33,9 +33,7 @@
     "redux": "^4.0.0",
     "uuid": "^3.3.2",
     "validator": "^10.5.0",
-    "webpack-dev-server": "2.5.1"
-  },
-  "devDependencies": {
+    "webpack-dev-server": "2.5.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "css-loader": "^1.0.0",
     "enzyme": "^3.6.0",
@@ -50,5 +48,8 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.1",
     "webpack": "^3.1.0"
+  },
+  "devDependencies": {
+    
   }
 }
